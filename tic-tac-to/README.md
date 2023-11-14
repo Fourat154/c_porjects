@@ -10,9 +10,3 @@ This project was design with a simple user-friendly interface.
 This project uses a basic control function so that player can easily be playable.
 
 
-# Install & Use 
-- Go-to **Codeblocks** and Open **New Projects ** then select **Console Application** 
-- After that select **c++**  and Go to **source** then **main.c**
-- Put code on there
--  click on **Build** then **Run**
-- 
